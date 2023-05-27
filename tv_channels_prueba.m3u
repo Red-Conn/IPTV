@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Canal 3
-http://172.0.1.100:25461/prueba/prueba123/348
 #EXTINF:-1,Canal 7
 http://172.0.1.100:25461/prueba/prueba123/349
 #EXTINF:-1,Canal 11
@@ -233,5 +231,3 @@ http://172.0.1.100:25461/prueba/prueba123/469
 http://172.0.1.100:25461/prueba/prueba123/470
 #EXTINF:-1,LA LIGA
 http://172.0.1.100:25461/prueba/prueba123/471
-#EXTINF:-1,El Justiciero 2
-http://172.0.1.100:25461/movie/prueba/prueba123/476.mp4
