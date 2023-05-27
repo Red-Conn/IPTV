@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="El Justiciero 2" tvg-logo="" group-title="ACCION",El Justiciero 2
+http://172.0.1.100:25461/movie/prueba-peliculas/12345678/476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CARS 3" tvg-logo="" group-title="INFANTILES",CARS 3
+http://172.0.1.100:25461/movie/prueba-peliculas/12345678/478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Pajaro Loco" tvg-logo="" group-title="FAMILIARES",El Pajaro Loco
+http://172.0.1.100:25461/movie/prueba-peliculas/12345678/477.mp4
