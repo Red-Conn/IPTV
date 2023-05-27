@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="El Justiciero 2" tvg-logo="" group-title="ACCION",El Justiciero 2
+#EXTINF:-1 tvg-id="" tvg-name="El Justiciero 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqRqKWSOxMu6nV16TtqKvsYFQ98.jpg" group-title="ACCION",El Justiciero 2 (2018)
 http://172.0.1.100:25461/movie/prueba-peliculas/12345678/476.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CARS 3" tvg-logo="" group-title="INFANTILES",CARS 3
+#EXTINF:-1 tvg-id="" tvg-name="Cars 3 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tp9W3QAbQcpanBtBceZtHD10UT.jpg" group-title="INFANTILES",Cars 3 (2017)
 http://172.0.1.100:25461/movie/prueba-peliculas/12345678/478.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Pajaro Loco" tvg-logo="" group-title="FAMILIARES",El Pajaro Loco
+#EXTINF:-1 tvg-id="" tvg-name="Hotel Transilvania 3: Unas vacaciones monstruosas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5eBnMRoFWjSua4DYdiKjmHP3H5.jpg" group-title="INFANTILES",Hotel Transilvania 3: Unas vacaciones monstruosas (2018)
+http://172.0.1.100:25461/movie/prueba-peliculas/12345678/479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El pájaro loco: La película (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fe4fVFJ2QzwKHOo24QwkpuA6OI.jpg" group-title="FAMILIARES",El pájaro loco: La película (2017)
 http://172.0.1.100:25461/movie/prueba-peliculas/12345678/477.mp4
