@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Canal 3
-http://172.0.1.100:25461/prueba/prueba123/348
 #EXTINF:-1,Canal 7
 http://172.0.1.100:25461/prueba/prueba123/349
 #EXTINF:-1,Canal 11
