@@ -1,235 +1,241 @@
 #EXTM3U
 #EXTINF:-1,Canal 3
-http://172.0.1.100:25461/luisreyes/12345678/348
+http://172.0.1.100:25461/live/luisreyes/12345678/348.m3u8
 #EXTINF:-1,Canal 7
-http://172.0.1.100:25461/luisreyes/12345678/349
+http://172.0.1.100:25461/live/luisreyes/12345678/349.m3u8
 #EXTINF:-1,Canal 11
-http://172.0.1.100:25461/luisreyes/12345678/346
+http://172.0.1.100:25461/live/luisreyes/12345678/346.m3u8
 #EXTINF:-1,Canal 13
-http://172.0.1.100:25461/luisreyes/12345678/347
+http://172.0.1.100:25461/live/luisreyes/12345678/347.m3u8
 #EXTINF:-1,Canal Antigua
-http://172.0.1.100:25461/luisreyes/12345678/350
+http://172.0.1.100:25461/live/luisreyes/12345678/350.m3u8
 #EXTINF:-1,Azteca Guate
-http://172.0.1.100:25461/luisreyes/12345678/351
+http://172.0.1.100:25461/live/luisreyes/12345678/351.m3u8
 #EXTINF:-1,Guatevision
-http://172.0.1.100:25461/luisreyes/12345678/366
+http://172.0.1.100:25461/live/luisreyes/12345678/366.m3u8
 #EXTINF:-1,TV FLORENCIA - NUESTRO CANAL
-http://172.0.1.100:25461/luisreyes/12345678/425
+http://172.0.1.100:25461/live/luisreyes/12345678/425.m3u8
 #EXTINF:-1,SARIMA TV
-http://172.0.1.100:25461/luisreyes/12345678/427
+http://172.0.1.100:25461/live/luisreyes/12345678/427.m3u8
 #EXTINF:-1,COMAL TV
-http://172.0.1.100:25461/luisreyes/12345678/428
+http://172.0.1.100:25461/live/luisreyes/12345678/428.m3u8
 #EXTINF:-1,Baby First
-http://172.0.1.100:25461/luisreyes/12345678/341
+http://172.0.1.100:25461/live/luisreyes/12345678/341.m3u8
 #EXTINF:-1,Baby TV
-http://172.0.1.100:25461/luisreyes/12345678/342
+http://172.0.1.100:25461/live/luisreyes/12345678/342.m3u8
 #EXTINF:-1,Cartoon Network
-http://172.0.1.100:25461/luisreyes/12345678/352
+http://172.0.1.100:25461/live/luisreyes/12345678/352.m3u8
 #EXTINF:-1,Cartoonito
-http://172.0.1.100:25461/luisreyes/12345678/353
+http://172.0.1.100:25461/live/luisreyes/12345678/353.m3u8
 #EXTINF:-1,Discovery Kids HD
-http://172.0.1.100:25461/luisreyes/12345678/355
+http://172.0.1.100:25461/live/luisreyes/12345678/355.m3u8
 #EXTINF:-1,Disney JR
-http://172.0.1.100:25461/luisreyes/12345678/357
+http://172.0.1.100:25461/live/luisreyes/12345678/357.m3u8
 #EXTINF:-1,Nick Jr
-http://172.0.1.100:25461/luisreyes/12345678/380
+http://172.0.1.100:25461/live/luisreyes/12345678/380.m3u8
 #EXTINF:-1,SEMILLITAS
-http://172.0.1.100:25461/luisreyes/12345678/384
+http://172.0.1.100:25461/live/luisreyes/12345678/384.m3u8
 #EXTINF:-1,Tooncast
-http://172.0.1.100:25461/luisreyes/12345678/393
+http://172.0.1.100:25461/live/luisreyes/12345678/393.m3u8
 #EXTINF:-1,ZooMoo
-http://172.0.1.100:25461/luisreyes/12345678/396
+http://172.0.1.100:25461/live/luisreyes/12345678/396.m3u8
 #EXTINF:-1,Discovery Kids
-http://172.0.1.100:25461/luisreyes/12345678/407
+http://172.0.1.100:25461/live/luisreyes/12345678/407.m3u8
 #EXTINF:-1,Nickelodeon
-http://172.0.1.100:25461/luisreyes/12345678/408
+http://172.0.1.100:25461/live/luisreyes/12345678/408.m3u8
 #EXTINF:-1,Disney
-http://172.0.1.100:25461/luisreyes/12345678/409
+http://172.0.1.100:25461/live/luisreyes/12345678/409.m3u8
 #EXTINF:-1,El Gourmet
-http://172.0.1.100:25461/luisreyes/12345678/361
+http://172.0.1.100:25461/live/luisreyes/12345678/361.m3u8
 #EXTINF:-1,HBO Family
-http://172.0.1.100:25461/luisreyes/12345678/367
+http://172.0.1.100:25461/live/luisreyes/12345678/367.m3u8
 #EXTINF:-1,LAS ESTRELLAS
-http://172.0.1.100:25461/luisreyes/12345678/465
+http://172.0.1.100:25461/live/luisreyes/12345678/465.m3u8
 #EXTINF:-1,Distrito COMEDIA :)
-http://172.0.1.100:25461/luisreyes/12345678/467
+http://172.0.1.100:25461/live/luisreyes/12345678/467.m3u8
 #EXTINF:-1,Mas Chic
-http://172.0.1.100:25461/luisreyes/12345678/377
+http://172.0.1.100:25461/live/luisreyes/12345678/377.m3u8
 #EXTINF:-1,RCN - GUA
-http://172.0.1.100:25461/luisreyes/12345678/382
+http://172.0.1.100:25461/live/luisreyes/12345678/382.m3u8
 #EXTINF:-1,RCN Novelas
-http://172.0.1.100:25461/luisreyes/12345678/383
+http://172.0.1.100:25461/live/luisreyes/12345678/383.m3u8
 #EXTINF:-1,Telemundo
-http://172.0.1.100:25461/luisreyes/12345678/392
+http://172.0.1.100:25461/live/luisreyes/12345678/392.m3u8
 #EXTINF:-1,Az Corazón
-http://172.0.1.100:25461/luisreyes/12345678/448
+http://172.0.1.100:25461/live/luisreyes/12345678/448.m3u8
 #EXTINF:-1,Az Mundo
-http://172.0.1.100:25461/luisreyes/12345678/452
+http://172.0.1.100:25461/live/luisreyes/12345678/452.m3u8
 #EXTINF:-1,Pasiones HD
-http://172.0.1.100:25461/luisreyes/12345678/463
+http://172.0.1.100:25461/live/luisreyes/12345678/463.m3u8
 #EXTINF:-1,Univision HD
-http://172.0.1.100:25461/luisreyes/12345678/464
+http://172.0.1.100:25461/live/luisreyes/12345678/464.m3u8
 #EXTINF:-1,Home Garden Latino
-http://172.0.1.100:25461/luisreyes/12345678/399
+http://172.0.1.100:25461/live/luisreyes/12345678/399.m3u8
 #EXTINF:-1,DE PELICULA
-http://172.0.1.100:25461/luisreyes/12345678/472
+http://172.0.1.100:25461/live/luisreyes/12345678/472.m3u8
+#EXTINF:-1,Azteca 7
+http://172.0.1.100:25461/live/luisreyes/12345678/476.m3u8
+#EXTINF:-1,TNT Novelas
+http://172.0.1.100:25461/live/luisreyes/12345678/477.m3u8
 #EXTINF:-1,Animal Planet
-http://172.0.1.100:25461/luisreyes/12345678/340
+http://172.0.1.100:25461/live/luisreyes/12345678/340.m3u8
 #EXTINF:-1,Discovery Channel
-http://172.0.1.100:25461/luisreyes/12345678/354
+http://172.0.1.100:25461/live/luisreyes/12345678/354.m3u8
 #EXTINF:-1,Discovery Science
-http://172.0.1.100:25461/luisreyes/12345678/356
+http://172.0.1.100:25461/live/luisreyes/12345678/356.m3u8
 #EXTINF:-1,History Channel
-http://172.0.1.100:25461/luisreyes/12345678/371
+http://172.0.1.100:25461/live/luisreyes/12345678/371.m3u8
 #EXTINF:-1,National Geographic
-http://172.0.1.100:25461/luisreyes/12345678/379
+http://172.0.1.100:25461/live/luisreyes/12345678/379.m3u8
 #EXTINF:-1,Discovery Turbo
-http://172.0.1.100:25461/luisreyes/12345678/446
+http://172.0.1.100:25461/live/luisreyes/12345678/446.m3u8
 #EXTINF:-1,History Chanel 2
-http://172.0.1.100:25461/luisreyes/12345678/444
+http://172.0.1.100:25461/live/luisreyes/12345678/444.m3u8
 #EXTINF:-1,Discovery H&H
-http://172.0.1.100:25461/luisreyes/12345678/411
+http://172.0.1.100:25461/live/luisreyes/12345678/411.m3u8
 #EXTINF:-1,History Channel HD
-http://172.0.1.100:25461/luisreyes/12345678/372
+http://172.0.1.100:25461/live/luisreyes/12345678/372.m3u8
 #EXTINF:-1,Discovery ID HD
-http://172.0.1.100:25461/luisreyes/12345678/438
+http://172.0.1.100:25461/live/luisreyes/12345678/438.m3u8
 #EXTINF:-1,Discovery Channel HD
-http://172.0.1.100:25461/luisreyes/12345678/454
+http://172.0.1.100:25461/live/luisreyes/12345678/454.m3u8
 #EXTINF:-1,Discovery World HD
-http://172.0.1.100:25461/luisreyes/12345678/456
+http://172.0.1.100:25461/live/luisreyes/12345678/456.m3u8
 #EXTINF:-1,Nat Geo HD
-http://172.0.1.100:25461/luisreyes/12345678/461
+http://172.0.1.100:25461/live/luisreyes/12345678/461.m3u8
 #EXTINF:-1,CORAZON DE JESUS TV
-http://172.0.1.100:25461/luisreyes/12345678/426
+http://172.0.1.100:25461/live/luisreyes/12345678/426.m3u8
 #EXTINF:-1,EWTN
-http://172.0.1.100:25461/luisreyes/12345678/360
+http://172.0.1.100:25461/live/luisreyes/12345678/360.m3u8
 #EXTINF:-1,Canal 27
-http://172.0.1.100:25461/luisreyes/12345678/468
+http://172.0.1.100:25461/live/luisreyes/12345678/468.m3u8
 #EXTINF:-1,RHEMA TV
-http://172.0.1.100:25461/luisreyes/12345678/450
+http://172.0.1.100:25461/live/luisreyes/12345678/450.m3u8
 #EXTINF:-1,Enlace TBN
-http://172.0.1.100:25461/luisreyes/12345678/388
+http://172.0.1.100:25461/live/luisreyes/12345678/388.m3u8
 #EXTINF:-1,TN 23
-http://172.0.1.100:25461/luisreyes/12345678/337
+http://172.0.1.100:25461/live/luisreyes/12345678/337.m3u8
 #EXTINF:-1,CNNE
-http://172.0.1.100:25461/luisreyes/12345678/345
+http://172.0.1.100:25461/live/luisreyes/12345678/345.m3u8
 #EXTINF:-1,Latin America Sport
-http://172.0.1.100:25461/luisreyes/12345678/373
+http://172.0.1.100:25461/live/luisreyes/12345678/373.m3u8
 #EXTINF:-1,FOX Sports 2
-http://172.0.1.100:25461/luisreyes/12345678/362
+http://172.0.1.100:25461/live/luisreyes/12345678/362.m3u8
 #EXTINF:-1,FOX Sport 3
-http://172.0.1.100:25461/luisreyes/12345678/364
+http://172.0.1.100:25461/live/luisreyes/12345678/364.m3u8
 #EXTINF:-1,ESPN+
-http://172.0.1.100:25461/luisreyes/12345678/359
+http://172.0.1.100:25461/live/luisreyes/12345678/359.m3u8
 #EXTINF:-1,ESPN 4
-http://172.0.1.100:25461/luisreyes/12345678/413
+http://172.0.1.100:25461/live/luisreyes/12345678/413.m3u8
 #EXTINF:-1,ESPN HD
-http://172.0.1.100:25461/luisreyes/12345678/459
+http://172.0.1.100:25461/live/luisreyes/12345678/459.m3u8
 #EXTINF:-1,ESPN 2 HD
-http://172.0.1.100:25461/luisreyes/12345678/457
+http://172.0.1.100:25461/live/luisreyes/12345678/457.m3u8
 #EXTINF:-1,ESPN 3 HD
-http://172.0.1.100:25461/luisreyes/12345678/458
+http://172.0.1.100:25461/live/luisreyes/12345678/458.m3u8
 #EXTINF:-1,ESPN 4 HD
-http://172.0.1.100:25461/luisreyes/12345678/423
+http://172.0.1.100:25461/live/luisreyes/12345678/423.m3u8
 #EXTINF:-1,FOX SPORTS 3 HD
-http://172.0.1.100:25461/luisreyes/12345678/460
-#EXTINF:-1,BEIN Sports
-http://172.0.1.100:25461/luisreyes/12345678/469
+http://172.0.1.100:25461/live/luisreyes/12345678/460.m3u8
 #EXTINF:-1,SKY SPORTS
-http://172.0.1.100:25461/luisreyes/12345678/466
+http://172.0.1.100:25461/live/luisreyes/12345678/466.m3u8
 #EXTINF:-1,DIRECTV
-http://172.0.1.100:25461/luisreyes/12345678/470
+http://172.0.1.100:25461/live/luisreyes/12345678/470.m3u8
 #EXTINF:-1,LA LIGA
-http://172.0.1.100:25461/luisreyes/12345678/471
+http://172.0.1.100:25461/live/luisreyes/12345678/471.m3u8
 #EXTINF:-1,PXTV
-http://172.0.1.100:25461/luisreyes/12345678/475
+http://172.0.1.100:25461/live/luisreyes/12345678/475.m3u8
 #EXTINF:-1,TIGO SPORTS
-http://172.0.1.100:25461/luisreyes/12345678/453
+http://172.0.1.100:25461/live/luisreyes/12345678/453.m3u8
+#EXTINF:-1,Claro Sports 1
+http://172.0.1.100:25461/live/luisreyes/12345678/478.m3u8
 #EXTINF:-1,MTV
-http://172.0.1.100:25461/luisreyes/12345678/414
+http://172.0.1.100:25461/live/luisreyes/12345678/414.m3u8
 #EXTINF:-1,MTV HD
-http://172.0.1.100:25461/luisreyes/12345678/375
+http://172.0.1.100:25461/live/luisreyes/12345678/375.m3u8
 #EXTINF:-1,MTV 80s
-http://172.0.1.100:25461/luisreyes/12345678/374
+http://172.0.1.100:25461/live/luisreyes/12345678/374.m3u8
 #EXTINF:-1,MTV Hits
-http://172.0.1.100:25461/luisreyes/12345678/376
+http://172.0.1.100:25461/live/luisreyes/12345678/376.m3u8
 #EXTINF:-1,MTV 00S
-http://172.0.1.100:25461/luisreyes/12345678/445
+http://172.0.1.100:25461/live/luisreyes/12345678/445.m3u8
 #EXTINF:-1,HTV
-http://172.0.1.100:25461/luisreyes/12345678/403
+http://172.0.1.100:25461/live/luisreyes/12345678/403.m3u8
 #EXTINF:-1,Concert Channel
-http://172.0.1.100:25461/luisreyes/12345678/415
+http://172.0.1.100:25461/live/luisreyes/12345678/415.m3u8
 #EXTINF:-1,Exa TV
-http://172.0.1.100:25461/luisreyes/12345678/451
+http://172.0.1.100:25461/live/luisreyes/12345678/451.m3u8
 #EXTINF:-1,BANDAMAX
-http://172.0.1.100:25461/luisreyes/12345678/473
+http://172.0.1.100:25461/live/luisreyes/12345678/473.m3u8
 #EXTINF:-1,A&E
-http://172.0.1.100:25461/luisreyes/12345678/336
+http://172.0.1.100:25461/live/luisreyes/12345678/336.m3u8
 #EXTINF:-1,AMC
-http://172.0.1.100:25461/luisreyes/12345678/338
+http://172.0.1.100:25461/live/luisreyes/12345678/338.m3u8
 #EXTINF:-1,AXN
-http://172.0.1.100:25461/luisreyes/12345678/339
+http://172.0.1.100:25461/live/luisreyes/12345678/339.m3u8
 #EXTINF:-1,AXN HD
-http://172.0.1.100:25461/luisreyes/12345678/424
+http://172.0.1.100:25461/live/luisreyes/12345678/424.m3u8
 #EXTINF:-1,Cine Latino
-http://172.0.1.100:25461/luisreyes/12345678/417
+http://172.0.1.100:25461/live/luisreyes/12345678/417.m3u8
 #EXTINF:-1,CINECANAL
-http://172.0.1.100:25461/luisreyes/12345678/420
+http://172.0.1.100:25461/live/luisreyes/12345678/420.m3u8
 #EXTINF:-1,CINECANAL HD
-http://172.0.1.100:25461/luisreyes/12345678/344
+http://172.0.1.100:25461/live/luisreyes/12345678/344.m3u8
 #EXTINF:-1,CINEMAX
-http://172.0.1.100:25461/luisreyes/12345678/418
+http://172.0.1.100:25461/live/luisreyes/12345678/418.m3u8
 #EXTINF:-1,E!
-http://172.0.1.100:25461/luisreyes/12345678/358
+http://172.0.1.100:25461/live/luisreyes/12345678/358.m3u8
 #EXTINF:-1,FX
-http://172.0.1.100:25461/luisreyes/12345678/363
+http://172.0.1.100:25461/live/luisreyes/12345678/363.m3u8
 #EXTINF:-1,Golden
-http://172.0.1.100:25461/luisreyes/12345678/365
+http://172.0.1.100:25461/live/luisreyes/12345678/365.m3u8
 #EXTINF:-1,Golden Premiere 2 HD
-http://172.0.1.100:25461/luisreyes/12345678/437
+http://172.0.1.100:25461/live/luisreyes/12345678/437.m3u8
 #EXTINF:-1,HBO
-http://172.0.1.100:25461/luisreyes/12345678/421
+http://172.0.1.100:25461/live/luisreyes/12345678/421.m3u8
 #EXTINF:-1,LIFE TIME
-http://172.0.1.100:25461/luisreyes/12345678/439
+http://172.0.1.100:25461/live/luisreyes/12345678/439.m3u8
 #EXTINF:-1,Multicinema
-http://172.0.1.100:25461/luisreyes/12345678/378
+http://172.0.1.100:25461/live/luisreyes/12345678/378.m3u8
 #EXTINF:-1,Multipremier
-http://172.0.1.100:25461/luisreyes/12345678/416
+http://172.0.1.100:25461/live/luisreyes/12345678/416.m3u8
 #EXTINF:-1,Paramount HD
-http://172.0.1.100:25461/luisreyes/12345678/462
+http://172.0.1.100:25461/live/luisreyes/12345678/462.m3u8
 #EXTINF:-1,SONY
-http://172.0.1.100:25461/luisreyes/12345678/385
+http://172.0.1.100:25461/live/luisreyes/12345678/385.m3u8
 #EXTINF:-1,SONY HD
-http://172.0.1.100:25461/luisreyes/12345678/386
+http://172.0.1.100:25461/live/luisreyes/12345678/386.m3u8
 #EXTINF:-1,SPACE
-http://172.0.1.100:25461/luisreyes/12345678/387
+http://172.0.1.100:25461/live/luisreyes/12345678/387.m3u8
 #EXTINF:-1,SPACE HD
-http://172.0.1.100:25461/luisreyes/12345678/404
+http://172.0.1.100:25461/live/luisreyes/12345678/404.m3u8
 #EXTINF:-1,STAR CHANNEL
-http://172.0.1.100:25461/luisreyes/12345678/410
+http://172.0.1.100:25461/live/luisreyes/12345678/410.m3u8
 #EXTINF:-1,STAR CHANNEL HD
-http://172.0.1.100:25461/luisreyes/12345678/400
+http://172.0.1.100:25461/live/luisreyes/12345678/400.m3u8
 #EXTINF:-1,Studio Universal
-http://172.0.1.100:25461/luisreyes/12345678/419
+http://172.0.1.100:25461/live/luisreyes/12345678/419.m3u8
 #EXTINF:-1,TBS
-http://172.0.1.100:25461/luisreyes/12345678/389
+http://172.0.1.100:25461/live/luisreyes/12345678/389.m3u8
 #EXTINF:-1,TCM
-http://172.0.1.100:25461/luisreyes/12345678/390
+http://172.0.1.100:25461/live/luisreyes/12345678/390.m3u8
 #EXTINF:-1,TLC
-http://172.0.1.100:25461/luisreyes/12345678/401
+http://172.0.1.100:25461/live/luisreyes/12345678/401.m3u8
 #EXTINF:-1,TNT
-http://172.0.1.100:25461/luisreyes/12345678/391
+http://172.0.1.100:25461/live/luisreyes/12345678/391.m3u8
 #EXTINF:-1,TNT Series
-http://172.0.1.100:25461/luisreyes/12345678/402
+http://172.0.1.100:25461/live/luisreyes/12345678/402.m3u8
 #EXTINF:-1,UNIVERSAL
-http://172.0.1.100:25461/luisreyes/12345678/405
+http://172.0.1.100:25461/live/luisreyes/12345678/405.m3u8
 #EXTINF:-1,Universal Cinema
-http://172.0.1.100:25461/luisreyes/12345678/406
+http://172.0.1.100:25461/live/luisreyes/12345678/406.m3u8
 #EXTINF:-1,Warner
-http://172.0.1.100:25461/luisreyes/12345678/395
+http://172.0.1.100:25461/live/luisreyes/12345678/395.m3u8
 #EXTINF:-1,WARNER HD
-http://172.0.1.100:25461/luisreyes/12345678/394
+http://172.0.1.100:25461/live/luisreyes/12345678/394.m3u8
 #EXTINF:-1,HBO XTREME
-http://172.0.1.100:25461/luisreyes/12345678/370
+http://172.0.1.100:25461/live/luisreyes/12345678/370.m3u8
 #EXTINF:-1,HBO Plus
-http://172.0.1.100:25461/luisreyes/12345678/369
+http://172.0.1.100:25461/live/luisreyes/12345678/369.m3u8
+#EXTINF:-1,CTV
+http://172.0.1.100:25461/live/luisreyes/12345678/479.m3u8
